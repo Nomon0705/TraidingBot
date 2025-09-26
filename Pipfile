@@ -12,3 +12,4 @@ alpaca-trade-api = "*"
 python_version = "3.8"
 
 
+//this is the file for a trading bot.
